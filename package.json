@@ -35,4 +35,8 @@
       "last 1 safari version"
     ]
   }
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Vidhyasagar731/react-backdrop-modal.git"
+},
 }
